@@ -9,12 +9,12 @@ stating the names of the flatmates, the period, and how much each of them had to
 
 ## Objects: 
 * Bill:
-            amount
-            period
+            1. amount
+            2. period
 * Flatmate:
-            name
-            days_in_house
-            pays(bill)
+            1. name
+            2. days_in_house
+            3. pays(bill)
 * PdfReport:
-            filename
-            generate(flatmate1, flatmate2, bill)
+            1. filename
+            2. generate(flatmate1, flatmate2, bill)
